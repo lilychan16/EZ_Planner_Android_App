@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EZplanner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_students">Hello students</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello EZplanner\n\n
+        Habit:\n\n
+        A percentage circle shows the completeness of all activities on the habit list\n
+        1. Click on “Add” to search or add activity to the habit list:\n
+        Input habit name in the search box and press search to get pre-set habits,\n
+        if the habit does not exist yet you can press “Save” button to add new habit manually\n
+        2. Click on "Uncheck All" to uncheck all completed tasks at the end of a day to prepare for a new day\n
+        3. Click on "Ranking" to display real-time rankings of all existing users\' completion status\n\n
+        To-Do:\n\n
+        1. Input item in the input box and click on “Add” to add item to your to-do list\n
+        2. Items shown as in list below the input box\n
+        3. Click on “Done/Delete” button to remove the item\n\n
+        Study Mode and label the location:\n\n
+        1. Click “Minutes” to enter the time, then click on “SET” to set the timer\n
+        2. Click on “START” to start the timer, “PAUSE” to pause the timer, “STOP” to stop the timer, and “Reset” to reset the timer\n
+        3. Click on “STOP”, then can allow EZplanner to access the device’s location, then can click “YES” to label your location. You can choose a default location or customize your location by inputting “Location Name”, and click “YES” to save the location\n
+        4. Click on “History” to see the timer and the location histories\n</string>
+</resources>

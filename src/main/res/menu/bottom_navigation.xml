@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_guide"
+        android:icon="@drawable/guide"
+        android:title="Guide"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_todo"
+        android:icon="@drawable/todo"
+        android:title="Todo"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_habit"
+        android:icon="@drawable/habit"
+        android:title="Habit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_study"
+        android:icon="@drawable/studymode"
+        android:title="StudyMode"
+        app:showAsAction="always" />
+</menu>
